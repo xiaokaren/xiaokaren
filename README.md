@@ -1,7 +1,6 @@
 ## Hi, I'm Karen!
 
-🎓 PhD Student @ UC San Diego CSE
-
+🎓 PhD Student @ UC San Diego CSE (2026 - present) \
 📫 Email: k4xiao@ucsd.edu
 
 <!--
