@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Karen!
+
+🎓 PhD Student @ UC San Diego CSE
+
+📫 Email: k4xiao@ucsd.edu
 
 <!--
 **xiaokaren/xiaokaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
